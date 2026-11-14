@@ -18,7 +18,8 @@ I build AI-powered tools, software systems, computer-vision applications, and em
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Replayable mini-RAG](https://github.com/Rkb301/deriv-ai-kit-live) | Python retrieval pipeline, grounding and repeatable evaluation scripts |
+| [AURA — Listening Observatory](https://github.com/Rkb301/aura-listening-observatory) | Local-first Spotify companion, OAuth PKCE, Electron desktop, playback integrations and 58 passing tests (v0.8 prerelease) |
+| [Replayable mini-RAG](https://github.com/Rkb301/deriv-ai-kit-live) | Python retrieval pipeline, grounding and repeatable evaluation scripts (29 passing tests) |
 | [Healthcare API](https://github.com/Rkb301/HealthcareApi) | ASP.NET Core, SQL Server/Entity Framework, JWT authentication and Lucene search |
 | [Healthcare UI](https://github.com/Rkb301/HealthcareUi) | Angular front-end for healthcare workflows and backend integration |
 | [Self-Learning Flappy Bird](https://github.com/Rkb301/SelfLearningFlappyBird) | Evolutionary optimization of a neural-network game agent |
