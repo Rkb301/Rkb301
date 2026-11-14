@@ -26,6 +26,8 @@ I build AI-powered tools, software systems, computer-vision applications, and em
 | [AI Travel Planner](https://github.com/Rkb301/Travel-Planner-AI) | Streamlit app, structured itineraries and AI-provider integration |
 | [Arduino Minimax Tic-Tac-Toe](https://github.com/Rkb301/Unbeatable-Tic-Tac-Toe-BTF) | Embedded game-tree search, scanned input sensors and LED output |
 
+**Automated project checks:** [AURA](https://github.com/Rkb301/aura-listening-observatory/actions/workflows/ci.yml) · [RAG](https://github.com/Rkb301/deriv-ai-kit-live/actions/workflows/ci.yml) · [Healthcare UI](https://github.com/Rkb301/HealthcareUi/actions/workflows/ci.yml) · [Travel Planner](https://github.com/Rkb301/Travel-Planner-AI/actions/workflows/ci.yml) · [Flappy Bird](https://github.com/Rkb301/SelfLearningFlappyBird/actions/workflows/ci.yml)
+
 ## Experience and research
 
 - **Apexon — Software Development Intern (2025):** Angular/TypeScript frontend, .NET/C# backend, Entity Framework and Lucene.NET work in a healthcare-management application.
