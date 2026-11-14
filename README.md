@@ -24,9 +24,11 @@ I build AI-powered tools, software systems, computer-vision applications, and em
 | [Healthcare UI](https://github.com/Rkb301/HealthcareUi) | Angular front-end for healthcare workflows and backend integration |
 | [Self-Learning Flappy Bird](https://github.com/Rkb301/SelfLearningFlappyBird) | Evolutionary optimization of a neural-network game agent |
 | [AI Travel Planner](https://github.com/Rkb301/Travel-Planner-AI) | Streamlit app, structured itineraries and AI-provider integration |
+| [Raspberry Pi Cloud IoT](https://github.com/Rkb301/pi-cloud-iot-dashboard) | Flask dashboard, GPIO control, Adafruit IO/ThingSpeak integrations, and mock-mode tests |
+| [FlyingFishESP32](https://github.com/Rkb301/FlyingFishESP32) | ESP32 multi-sensor monitor, calibration logic and test-backed sensor calculations |
 | [Arduino Minimax Tic-Tac-Toe](https://github.com/Rkb301/Unbeatable-Tic-Tac-Toe-BTF) | Embedded game-tree search, scanned input sensors and LED output |
 
-**Automated project checks:** [AURA](https://github.com/Rkb301/aura-listening-observatory/actions/workflows/ci.yml) · [RAG](https://github.com/Rkb301/deriv-ai-kit-live/actions/workflows/ci.yml) · [Healthcare API](https://github.com/Rkb301/HealthcareApi/actions/workflows/ci.yml) · [Healthcare UI](https://github.com/Rkb301/HealthcareUi/actions/workflows/ci.yml) · [Travel Planner](https://github.com/Rkb301/Travel-Planner-AI/actions/workflows/ci.yml) · [Flappy Bird](https://github.com/Rkb301/SelfLearningFlappyBird/actions/workflows/ci.yml)
+**Automated project checks:** [AURA](https://github.com/Rkb301/aura-listening-observatory/actions/workflows/ci.yml) · [RAG](https://github.com/Rkb301/deriv-ai-kit-live/actions/workflows/ci.yml) · [Healthcare API](https://github.com/Rkb301/HealthcareApi/actions/workflows/ci.yml) · [Healthcare UI](https://github.com/Rkb301/HealthcareUi/actions/workflows/ci.yml) · [Travel Planner](https://github.com/Rkb301/Travel-Planner-AI/actions/workflows/ci.yml) · [Flappy Bird](https://github.com/Rkb301/SelfLearningFlappyBird/actions/workflows/ci.yml) · [Pi IoT](https://github.com/Rkb301/pi-cloud-iot-dashboard/actions/workflows/ci.yml) · [FlyingFishESP32](https://github.com/Rkb301/FlyingFishESP32/actions/workflows/ci.yml)
 
 ## Experience and research
 
